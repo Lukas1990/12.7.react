@@ -25,6 +25,7 @@ function App() {
       <header>
         <div id="header_obal">
           <div className="kontajner">
+          
             <h1>
               <Link to="/">
                 <img src={budik_biely} alt="budik" /> {phrase["React examples"]}
